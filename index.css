@@ -1,0 +1,32 @@
+body{
+    background-color: burlywood;
+}
+
+.cd{
+    display: flex;
+    justify-content: center;
+    
+}
+
+img{
+    border: 5px solid;
+    border-radius: 150px;
+    padding: 10px;
+    background-color: aqua;
+}
+
+p{
+    margin: 40px;
+     font-family: calibri;
+     font-size: larger;
+}
+h1{
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h2{
+    margin-left: 40px;
+}
